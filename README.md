@@ -1,4 +1,4 @@
-![DIABETES EDA   PREDICTION](https://github.com/user-attachments/assets/f36a8c7e-ed41-4ff3-832d-f2e2880977c8)
+![DIABETES EDA   PREDICTION](https://github.com/user-attachments/assets/d4936f6c-da25-48d6-b8ed-597695b8f545)
 
 The Diabetes Dataset is a collection of health-related information used to predict the likelihood of diabetes in individuals. It contains a mix of numerical and categorical features that describe various physical and clinical attributes.
 
